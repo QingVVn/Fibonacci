@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="D:\Users\jbawang\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="D:\Users\jbawang\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Fibonacci.1236116888.00" t="ExcludeRecursive" />
+    <e p="D:\Users\jbawang\RiderProjects\Fibonacci" t="IncludeFlat">
+      <e p="Fibonacci.sln" t="IncludeFlat" />
+      <e p="FibonacciProject" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Fibonacci.cs" t="Include" />
+        <e p="FibonacciProject.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="FibonacciTest" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="FibonacciTest.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Tests.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
